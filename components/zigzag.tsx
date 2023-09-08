@@ -13,8 +13,8 @@ export default function Zigzag() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
             {/* <div className="inline-flex text-sm font-semibold py-1 px-3 m-2 text-green-600 bg-green-200 rounded-full mb-4">Reach goals that matter</div> */}
-            <h1 className="h2 mb-4">About <span className='text-[#EB5161]'>Vampire Shiba</span></h1>
-            <p className="text-xl text-gray-400">Introducing Vampire Shiba, the ultimate memecoin that combines the adorableness of the Shiba Inu with the mysterious allure of vampires. As a hybrid of two internet sensations, Vampire Shiba aims to sink its teeth into the world of decentralized finance while embracing the humor and absurdity of meme culture.</p>
+            <h1 className="h2 mb-4">About <span className='text-[#d8aa6f]'>Groot Coim</span></h1>
+            <p className="text-xl text-gray-600">Groot Coin is an exciting memecoin that marries the charm of a beloved Marvel character with the dynamic world of cryptocurrencies. Its emphasis on community, growth, and potential utility sets it apart in the crypto landscape, making it a project worth watching as it continues to sprout and evolve. 🚀🌳</p>
           </div>
 
           {/* Items */}
@@ -30,9 +30,9 @@ export default function Zigzag() {
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6" data-aos="fade-right">
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
                   {/* <div className="font-architects-daughter text-xl text-purple-600 mb-2">More speed. Less spend</div> */}
-                  <h3 className="h3 mb-3">Shiba Vampire Fusion</h3>
-                  <p className="text-xl text-gray-400 mb-4">Inspired by the viral success of other memecoins, Vampire Shiba stands out with its unique theme of a shiba inu turned vampire, complete with fangs and a cape. The project promises a fun and engaging community experience, with holders being affectionately referred to as 'Minions of the Vampire.'</p>
-                  {/* <ul className="text-lg text-gray-400 -mb-2">
+                  <h3 className="h3 mb-3">Cultivating Community and Growth</h3>
+                  <p className="text-xl text-gray-600 mb-4">Embracing Marvel's beloved character Groot as its muse, Groot Coin has burst onto the cryptocurrency scene with a whimsical and community-driven approach. Much like the character it's named after, this memecoin seeks to grow and thrive within the digital landscape. With a strong focus on fostering camaraderie and promoting growth, Groot Coin invites crypto enthusiasts to embark on a unique journey.</p>
+                  {/* <ul className="text-lg text-gray-600 -mb-2">
                     <li className="flex items-center mb-2">
                       <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
@@ -66,9 +66,9 @@ export default function Zigzag() {
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6" data-aos="fade-left">
                 <div className="md:pl-4 lg:pl-12 xl:pl-16">
                   {/* <div className="font-architects-daughter text-xl text-purple-600 mb-2">More speed. Less spend</div> */}
-                  <h3 className="h3 mb-3">Tech Meets Meme Identity</h3>
-                  <p className="text-xl text-gray-400 mb-4">Despite its humorous exterior, Vampire Shiba takes its blockchain technology seriously. Built on a secure and efficient network, it offers holders various utility functions and rewards, such as yield farming and stake-to-earn opportunities. The coin's supply mechanics, like 'Blood Drops' and 'Bite Rewards,' create an innovative tokenomics model that keeps the community engaged and excited.</p>
-                  {/* <ul className="text-lg text-gray-400 -mb-2">
+                  <h3 className="h3 mb-3">Community-Driven and Spirited</h3>
+                  <p className="text-xl text-gray-600 mb-4">At the heart of Groot Coin is its vibrant and engaged community. Unlike many cryptocurrencies, Groot Coin places a premium on the sense of togetherness among its holders. This community-driven ethos is central to its success, with supporters actively participating in its growth and development. Whether it's through meme sharing, discussions, or collaborative initiatives, Groot Coin's enthusiasts are united by their shared love for the Marvel Universe and the world of cryptocurrencies.</p>
+                  {/* <ul className="text-lg text-gray-600 -mb-2">
                     <li className="flex items-center mb-2">
                       <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
@@ -102,9 +102,9 @@ export default function Zigzag() {
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6" data-aos="fade-right">
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
                   {/* <div className="font-architects-daughter text-xl text-purple-600 mb-2">More speed. Less spend</div> */}
-                  <h3 className="h3 mb-3">Utility & Tokenomics</h3>
-                  <p className="text-xl text-gray-400 mb-4">Remember, Vampire Shiba is all about having a howling good time while exploring the potential of cryptocurrencies. Join the Vampire and let your inner meme lord shine!"</p>
-                  {/* <ul className="text-lg text-gray-400 -mb-2">
+                  <h3 className="h3 mb-3">Beyond Meme: Exploring Utility</h3>
+                  <p className="text-xl text-gray-600 mb-4">While Groot Coin certainly leverages its meme appeal, it's not content with merely being a meme token. The project explores avenues of utility and partnerships to solidify its presence in the crypto space. Whether it's through unique use cases or innovative collaborations, Groot Coin is committed to expanding its roots and flourishing as a crypto asset with real-world value.</p>
+                  {/* <ul className="text-lg text-gray-600 -mb-2">
                     <li className="flex items-center mb-2">
                       <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />

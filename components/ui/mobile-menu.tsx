@@ -42,7 +42,7 @@ export default function MobileMenu() {
       >
         <span className="sr-only">Menu</span>
         <svg
-          className="w-6 h-6 fill-current text-gray-300 hover:text-gray-200 transition duration-150 ease-in-out"
+          className="w-6 h-6 fill-current text-gray-900 hover:text-gray-900 transition duration-150 ease-in-out"
           viewBox="0 0 24 24"
           xmlns="http://www.w3.org/2000/svg"
         >
@@ -61,27 +61,27 @@ export default function MobileMenu() {
       >
         <ul className="bg-gray-800 px-4 py-2">
           <li>
-            <Link href="#home" className="flex font-medium w-full text-[#EB5161] hover:text-gray-200 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
+            <Link href="#home" className="flex font-medium w-full text-[#d8aa6f] hover:text-gray-200 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
               Home
             </Link>
           </li>
           <li>
-            <Link href="#about" className="flex font-medium w-full text-[#EB5161] hover:text-gray-200 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
+            <Link href="#about" className="flex font-medium w-full text-[#d8aa6f] hover:text-gray-200 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
               About
             </Link>
           </li>
           <li>
-            <Link href="#roadmap" className="flex font-medium w-full text-[#EB5161] hover:text-gray-200 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
+            <Link href="#roadmap" className="flex font-medium w-full text-[#d8aa6f] hover:text-gray-200 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
               Roadmap
             </Link>
           </li>
           <li>
-            <Link href="https://t.me/vempireshiba" className="flex font-medium w-full text-[#EB5161] hover:text-gray-200 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
+            <Link href="" className="flex font-medium w-full text-[#d8aa6f] hover:text-gray-200 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
               Telegram
             </Link>
           </li>
           <li>
-            <Link href="https://twitter.com/VampireShi34?t=M2th4c68Daj4Nh9q5ga1mA&s=09" className="flex font-medium w-full text-[#EB5161] hover:text-gray-200 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
+            <Link href="" className="flex font-medium w-full text-[#d8aa6f] hover:text-gray-200 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
               Twitter
             </Link>
           </li>

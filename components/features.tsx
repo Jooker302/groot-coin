@@ -5,9 +5,9 @@ export default function Features() {
         <div className="py-12 md:py-20">
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">Vampire Shiba Roadmap</h2>
-            <p className="text-xl text-gray-400">
-              Simplified Roadmap for Vampire Shiba Launch and Workflow
+            <h2 className="h2 mb-4">Groot Coin Roadmap</h2>
+            <p className="text-xl text-gray-600">
+              Simplified Roadmap for Groot Coin Launch and Workflow
               Understanding.
             </p>
           </div>
@@ -29,7 +29,7 @@ export default function Features() {
                 xmlns="http://www.w3.org/2000/svg"
               >
                 <rect
-                  className="fill-current text-[#EB5161]"
+                  className="fill-current text-[#d8aa6f]"
                   width="64"
                   height="64"
                   rx="32"
@@ -49,19 +49,12 @@ export default function Features() {
                   strokeWidth="2"
                 />
               </svg>
-              <h4 className="h4 mb-2">The Rise of the Vampire </h4>
-              <p className="text-lg text-gray-400 text-center">
-                </p><p><span className="font-bold text-[#EB5161]">Launch and Community Building :</span></p><p className="text-center">  Vampire Shiba starts with a
-                bang as it's introduced to the crypto world. The community
-                rallies around the unique concept of a vampire shiba inu,
-                creating social media buzz and driving initial adoption.
-                </p><p><span className="font-bold text-[#EB5161]">Token Distribution :</span></p><p className="text-center">  The initial supply of Vampire Shiba is
-                fairly distributed through a well-planned token sale or airdrop,
-                ensuring broad ownership and minimizing early centralization.
-                </p><p><span className="font-bold text-[#EB5161]">Listings on Exchanges :
-                </span></p><p className="text-center"> Vampire Shiba gets listed on several
-                major exchanges, providing liquidity and accessibility to a
-                broader audience of potential holders.
+              <h4 className="h4 mb-2">Inception and Development </h4>
+              <p className="text-lg text-gray-600 text-center">
+              - Month 1-2: Conceptualization and team formation. <br />
+- Month 3-4: Smart contract development and initial testing. <br />
+- Month 5-6: Community engagement, social media presence, and website creation. <br />
+- Month 7-8: Initial token sale and distribution.
               </p>
             </div>
 
@@ -78,7 +71,7 @@ export default function Features() {
                 xmlns="http://www.w3.org/2000/svg"
               >
                 <circle
-                  className="fill-current text-[#EB5161]"
+                  className="fill-current text-[#d8aa6f]"
                   cx="32"
                   cy="32"
                   r="32"
@@ -98,13 +91,11 @@ export default function Features() {
                   strokeLinecap="square"
                 />
               </svg>
-              <h4 className="h4 mb-2">Unleashing the Fangs</h4>
-              <p className="text-lg text-gray-400 text-center">
-              </p><p><span className="font-bold text-[#EB5161]">NFT Integration :</span></p><p className="text-center"> Vampire Shiba unveils its NFT marketplace, allowing users to mint, buy, and sell unique vampire shiba-themed digital collectibles, enhancing engagement within the community.
-
-              </p><p><span className="font-bold text-[#EB5161]">Partnerships and Collaborations :</span></p><p className="text-center"> The project forms partnerships with other meme and crypto projects, amplifying its reach and fostering a sense of collaboration within the space.
-
-              </p><p><span className="font-bold text-[#EB5161]">Initial Merchandising :</span></p><p className="text-center"> Vampire Shiba-branded merchandise, from t-shirts to stickers, becomes available, allowing supporters to proudly showcase their involvement in the Vampire.
+              <h4 className="h4 mb-2">Building a Solid Foundation</h4>
+              <p className="text-lg text-gray-600 text-center">
+              - Month 9-12: Listing on small and medium-sized exchanges to increase liquidity. <br />
+- Month 13-14: Building partnerships with other crypto projects and influencers. <br />
+- Month 15-16: Launching a user-friendly wallet for Groot Token.
               </p>
             </div>
 
@@ -121,7 +112,7 @@ export default function Features() {
                 xmlns="http://www.w3.org/2000/svg"
               >
                 <rect
-                  className="fill-current text-[#EB5161]"
+                  className="fill-current text-[#d8aa6f]"
                   width="64"
                   height="64"
                   rx="32"
@@ -152,13 +143,11 @@ export default function Features() {
                   />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">The Blood Moon</h4>
-              <p className="text-lg text-gray-400 text-center">
-              </p><p><span className="font-bold text-[#EB5161]">Blockchain Upgrades :</span></p><p className="text-center"> Vampire Shiba migrates to a more efficient and scalable blockchain to accommodate its growing user base and provide faster transactions at lower fees.
-
-              </p><p><span className="font-bold text-[#EB5161]">Yield Farming and Staking :</span></p><p className="text-center"> The project introduces yield farming pools and staking mechanisms, allowing holders to earn rewards in the form of additional Vampire Shiba tokens or other partner tokens.
-
-              </p><p><span className="font-bold text-[#EB5161]">Community Governance :</span></p><p className="text-center"> The introduction of decentralized governance enables token holders to participate in decision-making processes, ensuring a democratic and community-driven direction for the project.
+              <h4 className="h4 mb-2">Growth and Expansion</h4>
+              <p className="text-lg text-gray-600 text-center">
+              - Month 17-18: Expanding the ecosystem with NFTs and a decentralized marketplace. <br />
+- Month 19-20: Exploring use cases like governance and staking for token holders. <br />
+- Month 21-24: Additional exchange listings on major platforms for wider accessibility. 
               </p>
             </div>
 
@@ -175,7 +164,7 @@ export default function Features() {
                 xmlns="http://www.w3.org/2000/svg"
               >
                 <rect
-                  className="fill-current text-[#EB5161]"
+                  className="fill-current text-[#d8aa6f]"
                   width="64"
                   height="64"
                   rx="32"
@@ -199,13 +188,11 @@ export default function Features() {
                   />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Dominating the Crypto Night</h4>
-              <p className="text-lg text-gray-400 text-center">
-              </p><p><span className="font-bold text-[#EB5161]">AI Integration :</span></p><p className="text-center"> Vampire Shiba integrates AI-driven features, such as trading insights, automated yield farming optimizations, and market trend predictions, enhancing the utility of the coin.
-
-              </p><p><span className="font-bold text-[#EB5161]">Charitable Initiatives :</span></p><p className="text-center"> The project gives back to the community or supports charitable causes through donations and partnerships, showing a commitment to social responsibility.
-
-              </p><p><span className="font-bold text-[#EB5161]">Continued Expansion :</span></p><p className="text-center"> Vampire Shiba expands its reach to additional blockchain networks and ecosystems, ensuring compatibility and access to a wider range of users.
+              <h4 className="h4 mb-2"> Long-term Sustainability</h4>
+              <p className="text-lg text-gray-600 text-center">
+              - Year 2-3: Focusing on community engagement, development, and marketing. <br />
+- Year 4-5: Exploring partnerships with mainstream brands for broader adoption. <br /> 
+- Year 6 and Beyond: Continuously adapting and evolving based on market trends and user feedback.
               </p>
             </div>
 
@@ -244,7 +231,7 @@ export default function Features() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">
+              <p className="text-lg text-gray-600 text-center">
                 Duis aute irure dolor in reprehenderit in voluptate velit esse
                 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
                 cupidatat.
@@ -293,7 +280,7 @@ export default function Features() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">
+              <p className="text-lg text-gray-600 text-center">
                 Duis aute irure dolor in reprehenderit in voluptate velit esse
                 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
                 cupidatat.
