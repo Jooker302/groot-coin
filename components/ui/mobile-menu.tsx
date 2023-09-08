@@ -76,12 +76,12 @@ export default function MobileMenu() {
             </Link>
           </li>
           <li>
-            <Link href="" className="flex font-medium w-full text-[#d8aa6f] hover:text-gray-200 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
+            <Link href="https://t.me/grootcoins" className="flex font-medium w-full text-[#d8aa6f] hover:text-gray-200 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
               Telegram
             </Link>
           </li>
           <li>
-            <Link href="" className="flex font-medium w-full text-[#d8aa6f] hover:text-gray-200 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
+            <Link href="https://twitter.com/Groot320?t=7oNO5grGCsHBbvh6CbpeJg&s=09" className="flex font-medium w-full text-[#d8aa6f] hover:text-gray-200 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
               Twitter
             </Link>
           </li>

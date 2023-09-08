@@ -96,7 +96,7 @@ export default function Footer() {
             {/* Social links */}
             <ul className="flex mb-4 md:order-1 md:ml-4 md:mb-0">
               <li>
-              <a className="m-2" href="">
+              <a className="m-2" href="https://twitter.com/Groot320?t=7oNO5grGCsHBbvh6CbpeJg&s=09">
             <FontAwesomeIcon
               icon={faXTwitter}
               size="lg"
@@ -105,7 +105,7 @@ export default function Footer() {
           </a>
               </li>
               <li className="ml-4">
-              <a className="m-2" href="">
+              <a className="m-2" href="https://t.me/grootcoins">
             <FontAwesomeIcon
               icon={faTelegram}
               size="lg"
